@@ -1,16 +1,10 @@
-# crypto_app
+# Zee Palm UI Code
 
-A new Flutter project.
+Crypto App UI done with Flutter 3.7.0
 
-## Getting Started
+## Details
 
-This project is a starting point for a Flutter application.
+This project includes Crypto App UI with multiple screens.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/zeepalm-training-grounds/crypto-app/assets/128903428/525a100a-3f5e-4463-bb69-b3332573de45" width="200" height="400" />
+<img src="https://github.com/zeepalm-training-grounds/crypto-app/assets/128903428/10d1b2f3-2805-4088-84d9-50550926c8e3" width="200" height="400" />
